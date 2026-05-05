@@ -3,10 +3,10 @@
 如果你用了他，可以給個 Star 嗎
 
 執行環境
-硬體規格：Macbook Air M2 8/256
-系統資訊：MacOS 26.4.1
-注意！！！！：MacOS 27及以後版本可能不適用
-如非必要，請不要嘗試更新MacOS 27
+硬體規格：Macbook Air M2 8/256  
+系統資訊：MacOS 26.4.1  
+注意！！！！：MacOS 27及以後版本可能不適用  
+如非必要，請不要嘗試更新MacOS 27  
 
 ## 安裝 GTKWave、iverilog
 首先確保你的 Mac 有Homebrew

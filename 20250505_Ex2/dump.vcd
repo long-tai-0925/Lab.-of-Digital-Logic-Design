@@ -1,0 +1,52 @@
+$date
+	Wed May  6 01:26:12 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module ABSY_test $end
+$var wire 1 ! Yout $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ S $end
+$scope module uut $end
+$var wire 1 " A $end
+$var wire 1 # B $end
+$var wire 1 $ S $end
+$var wire 1 % SB $end
+$var wire 1 ! Y $end
+$var wire 1 & notS $end
+$var wire 1 ' notSA $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0'
+1&
+0%
+0$
+0#
+0"
+0!
+$end
+#160
+1!
+1'
+1"
+#240
+0!
+0'
+0&
+1$
+#480
+0"
+#640
+1#
+#880

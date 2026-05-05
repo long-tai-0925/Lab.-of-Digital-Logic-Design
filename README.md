@@ -1,5 +1,6 @@
 # Lab.-of-Digital-Logic-Design
 存放我在Lab. of Digital Logic Design的作業Git
+如果你用了他，可以給個 Star 嗎
 
 ## 安裝 GTKWave、iverilog
 首先確保你的 Mac 有Homebrew

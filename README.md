@@ -40,7 +40,7 @@ sudo xattr -rd com.apple.quarantine /opt/homebrew/bin/gtkwave
 iverilog -g2012 -o wave design.sv testbench.sv
 ```
 ```ssh
-vvp wave
+vvp wave   
 ```
 ```ssh
 gtkwave dump.vcd

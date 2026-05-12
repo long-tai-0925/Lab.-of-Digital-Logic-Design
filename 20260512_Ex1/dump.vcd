@@ -1,0 +1,84 @@
+$date
+	Tue May 12 12:38:44 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module tb_value_sorter $end
+$var wire 4 ! Z [3:0] $end
+$var wire 4 " Y [3:0] $end
+$var wire 4 # X [3:0] $end
+$var reg 4 $ A [3:0] $end
+$var reg 4 % B [3:0] $end
+$var reg 4 & C [3:0] $end
+$scope module uut $end
+$var wire 4 ' A [3:0] $end
+$var wire 4 ( B [3:0] $end
+$var wire 4 ) C [3:0] $end
+$var reg 4 * X [3:0] $end
+$var reg 4 + Y [3:0] $end
+$var reg 4 , Z [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 ,
+b0 +
+b0 *
+b0 )
+b0 (
+b0 '
+b0 &
+b0 %
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#20
+b10 !
+b10 ,
+b1 "
+b1 +
+b100 #
+b100 *
+b100 &
+b100 )
+b10 %
+b10 (
+b1 $
+b1 '
+#40
+b100 !
+b100 ,
+b10 "
+b10 +
+b1000 #
+b1000 *
+b10 &
+b10 )
+b100 %
+b100 (
+b1000 $
+b1000 '
+#60
+b10 !
+b10 ,
+b1 "
+b1 +
+b1100 #
+b1100 *
+b1 &
+b1 )
+b10 %
+b10 (
+b1100 $
+b1100 '
+#80
